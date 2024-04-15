@@ -76,11 +76,11 @@ if (elementoPai) {
           </div>
           <div class="primary-info">
               <p class="name">${var_nome}</p>
-              <p>Instagram â€¢ ${var_insta_nome}</p>
+              <p>Instagram • ${var_insta_nome}</p>
           </div>
           <div class="secondary-info">
-              <p>${var_seguidores} seguidores â€¢ ${var_publi} publicaÃ§Ãµes</p>
-              <p>Segue vocÃª</p>
+              <p>${var_seguidores} seguidores • ${var_publi} publicações</p>
+              <p>Segue você</p>
           </div>
           <a href="${var_insta_url}" target="_blank">ver perfil</a>
 
@@ -115,7 +115,7 @@ if (elementoPai) {
       link.id   = cssId;
       link.rel  = 'stylesheet';
       link.type = 'text/css';
-      link.href = 'https://assets.zyrosite.com/mjEPVWbj0ot28Gvr/style-YanBjyRWqqcneN4K.css';
+      link.href = 'https://raw.githubusercontent.com/ritylle/respositorio_typebot/main/style.css';
       link.media = 'all';
       head.appendChild(link);
   }
