@@ -14,21 +14,21 @@
     left: 0;
     right: 0;  
     max-width: 800px !important;  
-  }
-   */
-/*   .typebot-input.custom-input {
+  } */
+  
+  .typebot-input.custom-input {
     border-radius: 100vw;
     padding: 0;
     opacity: 1;
-  } */
+  }
   
-/*   .typebot-input.custom-input input {
+  .typebot-input.custom-input input {
     padding: 0 0 0 1rem !important;
-  } */
+  }
   
-/*   .typebot-input > div {
+  .typebot-input > div {
     width: 100%;
-  } */
+  }
   
   .user-metadata {
       display: flex;
@@ -71,7 +71,7 @@
   }
   
   
-/*   .message-input {
+  .message-input {
       display: flex;
       padding: 6px 8px;
       border-radius: 100vw;
@@ -79,32 +79,32 @@
       justify-content: center;
       max-width: 100%;
       width: 100%;
-      margin-inline: auto; */
+      margin-inline: auto;
       /* position: fixed; */
-/*       bottom: 1rem;
+      bottom: 1rem;
       left: 0;
       right: 0;
       z-index: 9999;
       background: black;
       align-items: center;
-  } */
+  }
   
-/*   .message-input .cam {
+  .message-input .cam {
       border-radius: 50%;
       background-color: #0099fd;
       display: grid;
       place-content: center;
       aspect-ratio: 1;
       width: 50px;
-  } */
+  }
   
   
   
-/*   .message-input > * {
+  .message-input > * {
       display: flex;
-  } */
+  }
   
-/*   .message-input .input, 
+  .message-input .input, 
   .message-input input {
       width: 100%;
       border: 0;
@@ -113,7 +113,7 @@
       font-weight: bold;
       font-size: 17px;
       background: transparent;
-  } */
+  }
   
   .message-input .icons > * {
       width: 40px;
